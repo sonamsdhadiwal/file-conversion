@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fileconversion-dev-165616-authRole",
+      "UnauthRoleArn": "arn:aws:iam::189203327285:role/amplify-fileconversion-dev-165616-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::189203327285:role/amplify-fileconversion-dev-165616-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fileconversion-dev-165616-deployment",
+      "UnauthRoleName": "amplify-fileconversion-dev-165616-unauthRole",
+      "StackName": "amplify-fileconversion-dev-165616",
+      "StackId": "arn:aws:cloudformation:us-east-1:189203327285:stack/amplify-fileconversion-dev-165616/7e25ace0-e100-11eb-aa2e-126b6ef530bb",
+      "AmplifyAppId": "d2rrv2drolqfov"
+    }
+  }
+}
